@@ -1,0 +1,13 @@
+<svg viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+  <g fill="none" stroke="#152E48" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 540 L170 350 L320 540" stroke-width="1.4" opacity="0.10"/>
+    <path d="M110 580 L280 300 L450 580" stroke-width="1.4" opacity="0.16"/>
+    <path d="M220 620 L410 250 L600 620" stroke-width="1.4" opacity="0.22"/>
+  </g>
+  <polyline points="50,560 170,430 290,470 410,290 560,150" fill="none" stroke="#A78D5D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+  <circle cx="50" cy="560" r="4.5" fill="#A78D5D"/>
+  <circle cx="170" cy="430" r="4.5" fill="#A78D5D"/>
+  <circle cx="290" cy="470" r="4.5" fill="#A78D5D"/>
+  <circle cx="410" cy="290" r="4.5" fill="#A78D5D"/>
+  <circle cx="560" cy="150" r="7" fill="#FFFFFF" stroke="#A78D5D" stroke-width="2.2"/>
+</svg>
